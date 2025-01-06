@@ -38,7 +38,6 @@ The goal of this project is to deliver actionable insights into the hospital ER'
 
 ## Technologies Used
 - **Tableau**: For data visualization and creating interactive dashboards.
-- **PNG Image**: Provides a visual snapshot of the dashboard.
 
 ## How to Use
 1. Open the provided Tableau Workbook file (`Hospital Emergency room.twbx`).
