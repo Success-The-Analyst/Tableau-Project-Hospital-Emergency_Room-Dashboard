@@ -1,4 +1,4 @@
-# Hospital ER Dashboard
+# Hospital Emergency Room Dashboard
 
 ## Overview
 This project features an interactive Tableau dashboard that provides real-time insights into the operations of a hospital's Emergency Room (ER). It tracks key performance metrics such as patient visits, admission rates, average wait time, patient satisfaction, departmental referrals, and patient demographics. The data presented is from October 2020, Week 44.
